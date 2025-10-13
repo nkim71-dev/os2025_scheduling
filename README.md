@@ -163,9 +163,6 @@ Observe how higher-priority processes preempt lower-priority ones.
 
 ### 5.2 CFS (Nice Value)
 
-#### **About Nice Values**
-
-
 
 #### Examples:
 
